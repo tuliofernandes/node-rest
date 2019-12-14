@@ -1,0 +1,9 @@
+{
+  "name": "node-rest",
+  "version": "1.0.0",
+  "description": "A simple RESTful API built on top of Node, Express and MongoDB.",
+  "main": "index.js",
+  "repository": "git@github.com:tuliofernandes/node-rest.git",
+  "author": "Túlio Fernandes",
+  "license": "MIT"
+}
