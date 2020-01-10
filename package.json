@@ -1,9 +1,9 @@
 {
-  "name": "node-rest",
+  "name": "todo-api",
   "version": "1.0.0",
-  "description": "A simple RESTful API built on top of Node, Express and MongoDB.",
+  "description": "The RESTful API of my to-do app",
   "main": "index.js",
-  "repository": "git@github.com:tuliofernandes/node-rest.git",
+  "repository": "git@github.com:tuliofernandes/todo-api.git",
   "author": "Túlio Fernandes",
   "license": "MIT",
   "scripts": {
